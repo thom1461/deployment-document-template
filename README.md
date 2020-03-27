@@ -58,9 +58,9 @@ This section should list any major frameworks that you built your project using.
 <!-- Features list -->
 ## Features
 - [x] Add button
-- [ ] One more add button
-- [ ] Backend storing value
-- [ ] So on...
+- [x] One more add button
+- [x] Backend storing value
+- [x] So on...
 
 <!-- High-Level Architecture -->
 ## High-Level Architecture
@@ -84,7 +84,7 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a API Key at [https://example.com](https://example.com)
 2. Clone the repo
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
@@ -131,4 +131,4 @@ List of Sprint two features (and known issues, if any).
 
 <!-- Acknowledgements -->
 ## Acknowledgements
-Show appreciation to everyone who has helped in the project (including Client and Professors). In acknowledgement, recognize and thank everyone who was involved in this Applied Project. With acknowledgement, you can express gratitude to the people or institution whose contributions were valuable to the success of the project.
+Show appreciation to everyone who has helped in the project (including Client and Professors). In acknowledgment, recognize and thank everyone who was involved in this Applied Project. With acknowledgment, you can express gratitude to the people or institution whose contributions were valuable to the success of the project.
