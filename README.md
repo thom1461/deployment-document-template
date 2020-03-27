@@ -98,8 +98,6 @@ npm install
 const API_KEY = 'ENTER YOUR API';
 ```
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -111,8 +109,26 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 List of Sprint two features (and known issues, if any).
+- First item
+- Second item
+- Third item
+- Fourth item
 
+<!-- Contact -->
+## Contact
 
+**Project Lead:** [Stewie Griffin](mailto:username@algonquinlive.com)
 
+**Technical Lead:** [Peter Griffin](mailto:liu00415@algonquinlive.com)
 
+**Design Lead:** [Lois Griffin](mailto:username@algonquinlive.com)
 
+**API Developer:** [Meg Griffin](mailto:username@algonquinlive.com)
+
+**UX Researcher:** [Glenn Quagmire](mailto:liu00396@algonquinlive.com)
+
+**UX Designer:** [Brian Griffin](mailto:username@algonquinlive.com)
+
+<!-- Acknowledgements -->
+## Acknowledgements
+Show appreciation to everyone who has helped in the project (including Client and Professors). In acknowledgement, recognize and thank everyone who was involved in this Applied Project. With acknowledgement, you can express gratitude to the people or institution whose contributions were valuable to the success of the project.
