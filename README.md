@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][images/screenshot.png]](https://example.com)
+![Product Name Screen Shot](https://github.com/shah0150/deployment-document-template/blob/master/images/screenshot.png?raw=true)
 
 Short description of the project 
 
@@ -65,7 +65,7 @@ This section should list any major frameworks that you built your project using.
 <!-- High-Level Architecture -->
 ## High-Level Architecture
 
-[![High-Level Architecture][images/screenshot.png]
+![High-Level Architecture](https://github.com/shah0150/deployment-document-template/blob/master/images/hla.png?raw=true)
 
 Describe in brief about your high-level architecture.
 
