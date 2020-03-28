@@ -10,12 +10,12 @@
     <img src="images/logo.png" alt="Team/Project logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MAD&D Applied Project</h3>
+  <h3 align="center">Team Name</h3>
 
   <p align="center">
     An deployment document template to jumpstart your projects!
     <br />
-    <a href="https://github.com/shah0150/deployment-document-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shah0150/deployment-document-template/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://shah0150.github.io/">View Demo</a>
