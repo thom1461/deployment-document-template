@@ -13,7 +13,7 @@
   <h3 align="center">Team Name</h3>
 
   <p align="center">
-    An deployment document template to jumpstart your projects!
+    An deployment document template for your projects!
     <br />
     <a href="https://github.com/shah0150/deployment-document-template/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -32,7 +32,19 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Features](#features)
+* [Design](#design)
+  * [User Research](#userresearch)
+  * [Product Research](#productresearch)
+  * [Personas](#personas)
+  * [User Stories & Usage Scenarios](#user-stories-usage-Scenarios)
+  * [Information Architecture](#information-architecture)
+  * [Paper Prototypes](#paper-prototypes)
+  * [UI Wireframes](#ui-wireframes)
+  * [Visual Design](#visual-design)
+  * [Interactive Visual MockUp](#interactive-visual-mockup)
+  * [Usability Testing Results](#usability-testing-results)
 * [High-Level Architecture](#high-level-architecture)
+* [Technical Research](#technical-research)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -62,12 +74,22 @@ This section should list any major frameworks that you built your project using.
 - [x] Backend storing value
 - [x] So on...
 
+<!-- Design -->
+## Design
+
+Work in progress (update to follow)
+
 <!-- High-Level Architecture -->
 ## High-Level Architecture
 
 ![High-Level Architecture](https://github.com/shah0150/deployment-document-template/blob/master/images/hla.png?raw=true)
 
 Describe in brief about your high-level architecture.
+
+<!-- Technical Research -->
+## Technical Research
+
+Summary of your technical research and attach the technical research document.
 
 <!-- Getting Started -->
 ## Getting Started
