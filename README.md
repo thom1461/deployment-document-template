@@ -13,7 +13,7 @@
   <h3 align="center">Team Name</h3>
 
   <p align="center">
-    An deployment document template for your projects!
+    A deployment document template for your projects!
     <br />
     <a href="https://github.com/shah0150/deployment-document-template/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
