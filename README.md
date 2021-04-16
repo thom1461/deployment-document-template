@@ -74,11 +74,6 @@ This section should list any major frameworks that you built your project using.
 - [x] Backend storing value
 - [x] So on...
 
-<!-- Design -->
-## Design
-
-Work in progress (update to follow)
-
 <!-- High-Level Architecture -->
 ## High-Level Architecture
 
