@@ -90,28 +90,18 @@ This section should list any major frameworks that you built your project using.
 
 #### Accounts made for the teamname@gmail.com under the specified password
 
-- [x] Location IQ - created under teamname@gmail.com
-- [x] Docker Hub - created under teamname (docker id) teamname@gmail.com
 - [x] Firebase - created under teamname@gmail.com
 - [x] Expo - created under teamname@gmail.com
-- [x] Heroku - With API Deployed
-- [ ] Imgur - not created, requires a phone number but could be made under teamname@gmail.com
+- [x] Netlify - With Web Deployed created under teamname@gmail.com
 
 <!-- Features list -->
 
 ## Features
 
-- [x] Firebase Authentication
-- [x] User Profile Customization
-- [x] Class Search
-- [x] Class Management
-- [ ] Discussion Boards
-- [x] Master & Appretice List (student class list, teacher class list)
-- [x] User & Provider Notifications
-- [x] Provider Reviews
-- [x] Bookmark Classes
-- [x] Image Upload
-- [x] Loaders & Error Screens
+- [x] Add button
+- [x] One more add button
+- [x] Backend storing value
+- [x] So on...
 
 <!-- User Research -->
 
@@ -260,13 +250,7 @@ npm install npm@latest -g
 npm i
 ```
 
-- Copy the .env template following the steps from the docs/skills-guild-rest-api.md and set up the environment with your api keys from the teamname@gmail.com account
-- Key will be needed for the following accounts, all accounts have been created for teamname@gmail.com
-  - [Location IQ](https://locationiq.com/)
-  - [Firebase](https://locationiq.com/)
-  - For Firebase a service account file will need to be generated and added to /config/service-account-key.json
-  - HEROKU_POSTGRES_URL can be left blank to run the API locally or set to run the deployed version
-- Docker will need to installed on your system and then run the following commands to run the api either locally or push up top heroku
+- Copy the .env template following the steps...
 
 ## Usage
 
