@@ -12,10 +12,10 @@
     <img src="images/WildRoga_Logo.png" alt="Team/Project logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Hyacinth</h3>
+  <h3 align="center">WildRoga App & Dashboard</h3>
 
   <p align="center">
-    Add your tagline
+    Powered by Hyacinth
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
