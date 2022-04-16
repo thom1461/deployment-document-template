@@ -231,7 +231,7 @@ npm i -g expo-cli
 - Install App Libraries
 
 ```sh
-npm install --global expo-cli
+npm i
 ```
 
 - Run Locally
