@@ -218,24 +218,28 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-#### Team Name Mobile App
+#### WildRoga - Hyacinth Mobile App
 
-- Install npm
+- Install Node (recommended v16)
+
+[Node.js](https://nodejs.org/en/)
+
+- Install Globally the Expo CLI
 
 ```sh
-npm install npm@latest -g
+npm i -g expo-cli
 ```
 
-- Install Expo CLI
+- Install App Libraries
 
 ```sh
 npm install --global expo-cli
 ```
 
-- Install Libraries
+- Run Locally
 
 ```sh
-expo install
+expo start
 ```
 
 #### Team Name Dashboard
