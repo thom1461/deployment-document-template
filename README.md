@@ -78,6 +78,7 @@ WildRoga is a yoga and wellness app that celebrates the voices of BIPOC and unde
 
 #### Development Toolkit:
 
+- [WebStorm](https://www.jetbrains.com/webstorm/) (IDE)
 - [VS Code](https://code.visualstudio.com/) (IDE)
 - [Expo](https://expo.io/)
 
@@ -85,7 +86,7 @@ WildRoga is a yoga and wellness app that celebrates the voices of BIPOC and unde
 
 - [x] Firebase - created under hyacinth.algonquin@gmail.com
 - [x] Expo - created under hyacinth.algonquin@gmail.com
-- [x] Netlify - With Web Deployed created under teamname@gmail.com
+- [x] Netlify - With Web Deployed created under hyacinth.algonquin@gmail.com
 
 <!-- Features list -->
 
@@ -289,9 +290,9 @@ List of Sprint two features (and known issues, if any).
 
 **Project Lead:** [Sara Thomas](mailto:thom1461@algonquinlive.com)
 
-**Technical Lead:** [Stive Avendaño Zambrano](mailto:aven0006@algonquinlive.com)
-
 **Design Lead:** [Naomi Gallupe](mailto:gall0381@algonquinlive.com)
+
+**Technical Lead:** [Stive AZ](mailto:aven0006@algonquinlive.com)
 
 **Developer:** [Kelsey Harrison](mailto:harr0627@algonquinlive.com)
 
