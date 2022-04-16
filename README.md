@@ -220,9 +220,7 @@ This is an example of how to list things you need to use the software and how to
 
 #### WildRoga - Hyacinth Mobile App
 
-- Install Node (recommended v16)
-
-[Node.js](https://nodejs.org/en/)
+- Install Node (recommended v16): [Node.js](https://nodejs.org/en/)
 
 - Install Globally the Expo CLI
 
