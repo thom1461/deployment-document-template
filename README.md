@@ -220,6 +220,8 @@ This is an example of how to list things you need to use the software and how to
 
 #### WildRoga - Hyacinth Mobile App
 
+- Clone the app repository
+
 - Install Node (recommended v16): [Node.js](https://nodejs.org/en/)
 
 - Install Globally the Expo CLI
@@ -228,11 +230,13 @@ This is an example of how to list things you need to use the software and how to
 npm i -g expo-cli
 ```
 
-- Install App Libraries
+- Install the npm packages
 
 ```sh
 npm i
 ```
+
+- Paste the .env file in the project root
 
 - Run Locally
 
@@ -240,21 +244,25 @@ npm i
 expo start
 ```
 
-#### Team Name Dashboard
+#### WildRoga - Hyacinth Dashboard
 
-- Install npm
+- Clone the dashboard repository
 
-```sh
-npm install npm@latest -g
-```
+- Install Node (recommended v16): [Node.js](https://nodejs.org/en/)
 
-- Install npm pacakges
+- Install the npm packages
 
 ```sh
 npm i
 ```
 
-- Copy the .env template following the steps...
+- Paste the .env file in the project root
+
+- Run Locally
+
+```sh
+npm run dev
+```
 
 ## Usage
 
