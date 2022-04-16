@@ -69,11 +69,11 @@ WildRoga is a yoga and wellness app that celebrates the voices of BIPOC and unde
 ### Built With
 #### Major Frameworks
 
-- [NEXT js](https://nextjs.org/docs/getting-started)
+- [Next.js](https://nextjs.org/docs/getting-started)
 - [Stripe](https://stripe.com/docs)
 - [Firebase](https://firebase.google.com/)
 - [MUX](https://docs.mux.com/guides/video)
-- [Ecamm](https://www.ecamm.com/)
+- [Ecamm Live](https://www.ecamm.com/)
 - [Expo](https://docs.expo.dev/)
 
 #### Development Toolkit:
