@@ -213,7 +213,11 @@ Finally, our team implemented a dashboard to manage all the content in the mobil
 
 [Technical Research Document](https://docs.google.com/document/d/1c6KC3qTwPs0Pc0epZ14JldHm3Mlta9ojceHZWiWOMjY/edit?usp=sharing)
 
-Summary of your technical research and attach the technical research document.
+The development team had three fronts to face to start the present solutions.
+
+- How to integrate the Livestream and video class features
+- How to store the information
+- How to manage the memberships
 
 <!-- Getting Started -->
 
