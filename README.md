@@ -93,15 +93,17 @@ WildRoga is a yoga and wellness app that celebrates the voices of BIPOC and unde
 ## App Features
 
 - [x] Watch livestream class
+- [x] Watch stored video classes
 - [x] Community wall feed
+- [x] Show information about the instructors
 - [X] Paid membership tier
-- [x] Fitness tracker (phase 2)
 
 ## Dashboard Features
 
-- [x] Start live stream classes
+- [x] Start and schedule Livestream classes
 - [x] Upload, edit and delete videos content
 - [x] Upload, edit and delete community wall posts
+- [x] Upload, edit and delete a highlight section
 
 <!-- User Research -->
 
