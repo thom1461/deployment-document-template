@@ -195,7 +195,7 @@ WildRoga is a yoga and wellness app that celebrates the voices of BIPOC and unde
 
 ![High-Level Architecture](images/highLevelArchitecture.png)
 
-The team decided to go forward with Firebase in pro of the project scaffolding because the offered features fit with requirements: the option to manage data in real-time, the chance to store the images or videos, and have all the future members' information in the database, is a perfect solution to our proposal.
+The Hyacinth team decided to go forward with Firebase in pro of the project scaffolding because the offered features fit with requirements: the option to manage data in real-time, the chance to store the images or videos, and have all the future members' information in the database, is a perfect solution to our proposal.
 
 For the payment process, our client is already familiar with Stripe, this service is integrated into the official website and the development accesses were provided to integrate it into the mobile application.
 
@@ -213,11 +213,17 @@ Finally, our team implemented a dashboard to manage all the content in the mobil
 
 [Technical Research Document](https://docs.google.com/document/d/1c6KC3qTwPs0Pc0epZ14JldHm3Mlta9ojceHZWiWOMjY/edit?usp=sharing)
 
-The development team had three fronts to face to start the present solutions.
+The Hyacinth development team had three fronts to face to start the present solutions.
 
 - How to integrate the Livestream and video class features
 - How to store the information
 - How to manage the memberships
+
+To the first point, we did research on different technologies and implemented those in several proofs of concepts. Result: to fit the budget of our client, we implemented Firebase Storage, MUX Video, and Expo AV.
+
+To solve the second concern, the team implemented Firebase and MUX storage.
+
+The memberships stood managed with Stripe in the payment process and Firebase Firestore to save the information into the member data.
 
 <!-- Getting Started -->
 
