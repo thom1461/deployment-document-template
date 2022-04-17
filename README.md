@@ -195,7 +195,17 @@ WildRoga is a yoga and wellness app that celebrates the voices of BIPOC and unde
 
 ![High-Level Architecture](images/highLevelArchitecture.png)
 
-Describe in brief about your high-level architecture.
+The team decided to go forward with Firebase in pro of the project scaffolding because the offered features fit with requirements: the option to manage data in real-time, the chance to store the images or videos, and have all the future members' information in the database, is a perfect solution to our proposal.
+
+For the payment process, our client is already familiar with Stripe, this service is integrated into the official website and the development accesses were provided to integrate it into the mobile application.
+
+To deliver the Livestream our proposal needs third-party Broadcast Software, in our case our client has already a license with Ecamm Live.
+
+To complete the Livestream experience, our piece of software is implementing MUX Video. MUX is a paid service that allows the developers to work with the RTMP protocol (open source software) and is supported by the Broadcast Software as well as the mobile application.
+
+The mobile application is developed with Expo, if well our focus group is iOS users, this framework allows us to open the option to future Android users only having one code base and simplifying our development process to both platforms.
+
+Finally, our team implemented a dashboard to manage all the content in the mobile application, we decided to develop it with Next.js. This result allows any member of the team to work on both React-based developments.
 
 <!-- Technical Research -->
 
@@ -209,14 +219,11 @@ Summary of your technical research and attach the technical research document.
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is what you need to use to the software and how to install them.
 
 #### WildRoga - Hyacinth Mobile App
 
@@ -290,6 +297,7 @@ List of Sprint two features (and known issues, if any).
     - Community wall, alow users to comment on posts and videos
     - Notifications and reminders
     - In app shop
+    - Edit user information
 - Phase 2
     - Community wall, alow users to create their own posts
     - Fitness tracker
